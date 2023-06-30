@@ -1,5 +1,11 @@
-.cabi-esquerda{
+.cabecalho{
     display: flex;
-    justify-content: space-between;
-    position: relative;
+justify-content: space-between;
+position: relative;
+}
+
+
+
+.cabi-esquerda{
+    
 }
