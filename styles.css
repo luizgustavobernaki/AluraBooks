@@ -1,3 +1,6 @@
 :root{
     background-color: #ebecee;
 }
+body{
+    background-color: var(background-color);
+}
