@@ -4,8 +4,6 @@ justify-content: space-between;
 position: relative;
 }
 
-
-
-.cabi-esquerda{
-    
+.cabecalho{
+    background-color: var(--branco);
 }

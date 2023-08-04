@@ -2,6 +2,7 @@
 
 :root{
     background-color: #ebecee;
+    --branco: #FFFFFFF
 }
 body{
     background-color: var(background-color);
