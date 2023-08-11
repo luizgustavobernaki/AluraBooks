@@ -37,3 +37,6 @@
     .lista-menu__titulo{
         color: var(--azul);
     }
+    .lista-menu__link{
+        color: var(--petroleo);
+    }
