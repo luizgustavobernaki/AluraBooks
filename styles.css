@@ -2,7 +2,9 @@
 
 :root{
     background-color: #ebecee;
-    --branco: #B63C3C; 
+    --branco: #B63C3C;
+    --cinza: #111111
+
 }
 body{
     background-color: var(background-color);
