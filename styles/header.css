@@ -38,5 +38,5 @@
         color: var(--azul);
     }
     .lista-menu__link{
-        color: var(--petroleo);
+    background: var(--petroleo);
     }
