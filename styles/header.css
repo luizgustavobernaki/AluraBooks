@@ -37,6 +37,6 @@
     .lista-menu__titulo{
         color: var(--azul);
     }.lista-menu__item{
-        background:var(--petroleo)
+        color: var(--petroleo);
 
     }
