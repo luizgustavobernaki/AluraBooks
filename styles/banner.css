@@ -28,4 +28,5 @@
         color: var(--meioazul);
         background: url(../img/Pesquisa.svg);
         background-position: 1em;
+        display: block;
     }
