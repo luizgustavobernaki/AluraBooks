@@ -36,10 +36,7 @@
     }
     .lista-menu__titulo{
         color: var(--azul);
-    }
-    .lista-menu__link{
-    background: var(--petroleo);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    }.lista-menu__item{
+        background:var(--petroleo)
+
     }
