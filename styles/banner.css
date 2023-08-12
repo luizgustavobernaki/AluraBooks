@@ -26,4 +26,5 @@
         font-weight: 400;
         text-align: center;
         color: var(--meioazul);
+        background: url(../img/Lupa.svg);
     }
