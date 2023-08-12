@@ -14,9 +14,9 @@
 }
 .banner__pesquisa{
     background-color: wheat;
-    background-origin: 2px solid var(--claro);
+    background-origin: 1px solid var(--claro);
     color: var(--meioazul);
     border-radius: 24px;
-    padding: 2em;
+    padding: 1em;
     width: 100%;
 }
