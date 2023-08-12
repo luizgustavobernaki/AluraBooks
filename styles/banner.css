@@ -1,4 +1,5 @@
 .banner{
     background: var(--azul);
     color: var(--meioazul);
+    text-align: center;
 }
