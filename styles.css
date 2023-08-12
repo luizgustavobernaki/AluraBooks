@@ -4,10 +4,9 @@
     background-color: #ebecee;
     --branco: #B63C3C;
     --azul:#216e6e;
-    --petroleo: #abd4f3;
-
-
+    --meioazul: #abd4f3;
 }
+
 body{
     background-color: var(background-color);
 }
