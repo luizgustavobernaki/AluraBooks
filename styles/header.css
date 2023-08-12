@@ -38,5 +38,8 @@
         color: var(--azul);
     }
     .lista-menu__link{
-    color: var(--azul);
+    background: var(--meioazul);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
     }
