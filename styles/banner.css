@@ -17,5 +17,6 @@
     background-origin: 2px solid var(--claro);
     color: var(--meioazul);
     border-radius: 24px;
-    padding: 1em;
+    padding: 2em;
+    width: 100%;
 }
