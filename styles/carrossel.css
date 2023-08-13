@@ -60,3 +60,7 @@ padding: 1em 0 0.5em 0
    font-size: 14px;
    color: var(--claro);
  }
+
+ .botoes__item{
+   margin: 0 0.5em;
+ }
