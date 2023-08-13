@@ -48,6 +48,8 @@
     <h2 class="carrossel__titulo">Novos Lançamentos</h2><!-- Slider main container -->
     <div class="swiper">
       <!-- Additional required wrapper -->
+      <!-- If we need pagination -->
+      <div class="swiper-pagination"></div>
       <div class="swiper-wrapper">
         <!-- Slides -->
         <div class="swiper-slide"><img src="img/Positions Deluxe.png" alt="Positions (DELUXE) Ariana Grande"></div>
@@ -57,8 +59,6 @@
         <div class="swiper-slide"><img src="img/Sweetener.png" alt="Sweetener Ariana Grande"> 5</div>
         <div class="swiper-slide"><img src="img/Dangerous Woman.png" alt="Dangerous Woman Ariana Grande"> 6</div>
       </div>
-      <!-- If we need pagination -->
-      <div class="swiper-pagination"></div>
     
       <!-- If we need navigation buttons -->
       <div class="swiper-button-prev"></div>
@@ -73,6 +73,10 @@
     const swiper = new Swiper('.swiper', {
   spaceBetween: 10,
   slidesPerView: 3,
+  pagination: {
+    el:'swiper-pagination'
+    type: bullets',
+  }',
 });
 </script>
 </body>
