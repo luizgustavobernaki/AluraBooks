@@ -77,10 +77,4 @@ padding: 1em 0 0.5em 0
    width: 188px;
    height: 188px;
  }
- .botoes__ancora__ariana{
-   background-color: var(--marrom);
-   padding: 1.5em 3.5em;
-   color: var(--maioazul);
-   font-weight: 700;
-   text-decoration: none;
- }
+ 
