@@ -56,4 +56,5 @@ padding: 1em 0 0.5em 0
  }
  .descricao__texto{
    font-size: 14px;
+   color: var(--claro);
  }
