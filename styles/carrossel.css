@@ -49,3 +49,6 @@ padding: 1em 0 0.5em 0
    font-weight: 700;
  }
  
+ .descricao__titulo-livro{
+   color: var(--marrom);
+ }
