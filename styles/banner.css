@@ -26,6 +26,6 @@
         font-weight: 400;
         text-align: center;
         color: var(--meioazul);
-        background: url(../img/Busca.png) no-repeat;
-        padding: 50em;
+        background: url(../img/Busca.svg) no-repeat;
+        padding: 1em;
     }
