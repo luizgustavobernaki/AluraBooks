@@ -27,3 +27,8 @@ padding: 1em 0 0.5em 0
    display: flex;
    justify-content: space-between;
  }
+
+ .folklore__album{
+   height: 188px;
+   width: 188px;
+ }
