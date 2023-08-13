@@ -64,3 +64,8 @@ padding: 1em 0 0.5em 0
  .botoes__item{
    margin: 0 0.5em;
  }
+
+ .botoes__ancora{
+   background-color: var(--marrom);
+   padding: 2em 2.2em;
+ }
