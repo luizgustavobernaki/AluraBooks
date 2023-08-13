@@ -51,4 +51,6 @@ padding: 1em 0 0.5em 0
  
  .descricao__titulo_livro{
    color: var(--marrom);
+   font-size: 18px;
+   font-weight: 700;
  }
