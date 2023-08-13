@@ -47,10 +47,6 @@
 <section class="carrossel">
     <h2 class="carrossel__titulo">Novos Lançamentos</h2><!-- Slider main container -->
     <div class="swiper">
-      pagination: {
-        el: '.swiper-pagination',
-        type: 'bullets',
-      },
       <!-- Additional required wrapper -->
       <!-- If we need pagination -->
       <div class="swiper-pagination"></div>
@@ -70,6 +66,10 @@
     const swiper = new Swiper('.swiper', {
   spaceBetween: 10,
   slidesPerView: 3,
+  pagination: {
+        el: '.swiper-pagination',
+        type: 'bullets',
+      },
 });
 </script>
 </body>
