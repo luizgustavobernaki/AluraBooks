@@ -44,3 +44,7 @@ padding: 1em 0 0.5em 0
    margin: 1em;
    padding: 1em;
  }
+ .descricao__titulo{
+   color: var(--maioazul);
+   font-weight: 700;
+ }
