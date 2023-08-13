@@ -26,5 +26,6 @@
         font-weight: 400;
         text-align: center;
         color: var(--meioazul);
-        background: url(../img/Pesquisa.svg);
+        background: url(../img/Busca.png);
+        padding: 1em;
     }
