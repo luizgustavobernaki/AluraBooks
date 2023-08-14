@@ -10,7 +10,6 @@ padding: 1em 0 0.5em 0
 .swiper-slide img{
     width: 100%;
     background-color: var(--marrom);
-    border-radius: 10px;
 }
  .swiper-button-prev, .swiper-button-next{
     display: none
@@ -81,14 +80,6 @@ padding: 1em 0 0.5em 0
 
 .carrossel{
   background-color: var(--branco);
-  padding: 0.5em;
-  margin: 1em;
 }
 
-.album__titulo{
-  display: flex;
-  text-align: center;
-  font-size: 15px;
-  font-weight: 600;
-}
 
