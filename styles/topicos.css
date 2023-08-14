@@ -9,14 +9,4 @@
 .topicos__lista{
     display: flex;
     flex-wrap: wrap;
-    justify-content: baseline;
-}
-.topicos__item{
-    margin: 0em 0em;
-}
-
-.topicos__link{
-    color: var(--meioazul);
-    padding: 2em;
-    background-color: var(--branco);
 }
