@@ -87,4 +87,5 @@ padding: 1em 0 0.5em 0
   justify-content: center;
   font-size: 18px;
   font-weight: 700;
+  background-color: var(--marrom);
 }
