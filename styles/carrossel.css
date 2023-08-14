@@ -84,9 +84,8 @@ padding: 1em 0 0.5em 0
  .album__titulo{
   display: flex;
   justify-content: center;
-  font-size: 14px;
-  font-weight: 400;
+  font-size: 16px;
+  font-weight: 600;
   background-color: var(--marrom);
-  padding: 2em 2.8em;
  }
 
