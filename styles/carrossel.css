@@ -83,6 +83,7 @@ padding: 1em 0 0.5em 0
 }
 
 .album__titulo{
-  align-items: center;
+  justify-content: baseline;
   font-size: 700;
+  color: var(--maioazul);
 }
