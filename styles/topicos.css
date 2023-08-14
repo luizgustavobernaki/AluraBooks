@@ -2,3 +2,6 @@
     background: var(--marrom);
     text-align: center;
 }
+.topicos__titulo{
+    color: var(--meioazul);
+}
