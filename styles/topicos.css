@@ -6,3 +6,6 @@
     color: var(--azul);
     font-weight: 300;
 }
+.topicos__lista{
+    display: flex;
+}
