@@ -81,9 +81,3 @@ padding: 1em 0 0.5em 0
 .carrossel{
   background-color: var(--branco);
 }
-
-.album__titulo{
-  justify-content: center
-  font-size: 700;
-  color: var(--maioazul);
-}
