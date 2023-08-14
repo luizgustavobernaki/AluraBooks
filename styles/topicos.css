@@ -5,6 +5,8 @@
 .topicos__titulo{
     color: var(--azul);
     font-weight: 300;
+    height: 10px
+    10px;
 }
 .topicos__lista{
     display: flex;
