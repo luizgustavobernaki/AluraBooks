@@ -9,11 +9,10 @@
 .topicos__lista{
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: baseline;
 }
 .topicos__item{
     margin: 0em 0em;
-    justify-content: space-around;
 }
 
 .topicos__link{
