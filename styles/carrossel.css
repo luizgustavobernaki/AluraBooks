@@ -80,7 +80,7 @@ padding: 1em 0 0.5em 0
 
 .carrossel{
   background-color: var(--branco);
-  padding: 1em;
+  padding: 0.5em;
 }
 
 .album__titulo{
