@@ -88,6 +88,14 @@ padding: 1em 0 0.5em 0
   font-size: 12px;
   font-weight: 700;
   background-color: var(--marrom);
-  align-items: initial
 }
+
+.album__titulo-dois{
+  display: flex;
+  justify-content: center;
+  font-size: 12px;
+  font-weight: 700;
+  background-color: var(--marrom);
+}
+ 
 
