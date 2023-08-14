@@ -88,5 +88,6 @@ padding: 1em 0 0.5em 0
   font-size: 12px;
   font-weight: 700;
   background-color: var(--marrom);
-  text-align: justify;
+  align-items: baseline;
 }
+
