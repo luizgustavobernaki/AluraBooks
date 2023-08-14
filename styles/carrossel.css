@@ -78,7 +78,6 @@ padding: 1em 0 0.5em 0
    height: 160px;
  }
 
- .swiper-pagination{
-  background-position: initial;
+ .swiper-wrapper{
+  position: initial;
  }
- 
