@@ -10,6 +10,7 @@ padding: 1em 0 0.5em 0
 .swiper-slide img{
     width: 100%;
     background-color: var(--marrom);
+    border-radius: 10px;
 }
  .swiper-button-prev, .swiper-button-next{
     display: none
