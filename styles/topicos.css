@@ -12,3 +12,9 @@
     flex-wrap: wrap;
     justify-content: center;
 }
+
+.topicos__link{
+    color: var(--claro);
+    padding: 1em;
+    background-color: var(--branco);
+}
