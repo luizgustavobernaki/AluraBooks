@@ -7,6 +7,7 @@
     color: var(--azul);
     font-weight: 700;
     font-size: 24px;
+    margin-bottom: 1em;
 }
 .topicos__lista{
     display: flex;
