@@ -4,4 +4,7 @@
 }
 .contato__titulo{
     background: var(--azul);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
 }
