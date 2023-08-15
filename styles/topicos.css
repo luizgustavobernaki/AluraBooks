@@ -18,3 +18,7 @@
     padding: 1em;
     background-color: var(--branco);
 }
+
+.topicos__item{
+    margin: 2em 0.5em;
+}
