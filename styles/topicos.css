@@ -17,6 +17,7 @@
     color: var(--claro);
     padding: 1em;
     background-color: var(--branco);
+    text-decoration: none;
 }
 
 .topicos__item{
