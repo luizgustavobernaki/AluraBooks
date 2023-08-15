@@ -6,12 +6,7 @@
 .topicos__titulo{
     color: var(--azul);
     font-weight: 700;
-<<<<<<< HEAD
     font-size: 20px;
-=======
-    font-size: 24px;
-    margin-bottom: 1em;
->>>>>>> 4032ba44037c88c270f35b43622675b1e2368c8c
 }
 .topicos__lista{
     display: flex;
