@@ -8,3 +8,10 @@
     -webkit-text-fill-color: transparent;
     background-clip: text;
 }
+.contato__titulo{
+    font-size: 18px;
+    font-weight: 500;
+}
+.contato__texto{
+    font-weight: 300;
+}
