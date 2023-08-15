@@ -1,6 +1,7 @@
 .topicos{
     background: var(--marrom);
     text-align: center;
+    padding: 1em 0;
 }
 .topicos__titulo{
     color: var(--azul);
