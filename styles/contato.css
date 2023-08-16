@@ -16,3 +16,7 @@
     font-weight: 300;
     margin: 1em 0;
 }
+.contato__email{
+    padding: 1em;
+    border: 1px solid var(--azul);
+}
