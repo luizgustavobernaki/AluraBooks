@@ -66,5 +66,6 @@
     .container__titulo--negrito{
         font-weight: 700;
         font-size: 35;
+        text-decoration: solid;
     }
 }
