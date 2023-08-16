@@ -28,4 +28,5 @@
     font-family: var(--fonte-principal);
     color: var(--meioazul);
     background: url(../img/email.svg) no-repeat;
+    padding-left: 1em;
 }
