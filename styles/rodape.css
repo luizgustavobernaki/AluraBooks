@@ -5,4 +5,5 @@ hr{
 .rodape{
     background-color: var(--maioazul);
     padding: 1em;
+    font-weight: 700;
 }
