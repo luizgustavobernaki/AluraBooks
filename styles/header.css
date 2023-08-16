@@ -58,7 +58,7 @@
     .container__titulo{
         font-weight: 400;
     }
-    .container_-titulo--negrito{
+    .container__titulo--negrito{
         font-weight: 700;
     }
 }
