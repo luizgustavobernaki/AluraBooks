@@ -23,3 +23,8 @@
     width: 90%;
     background-color: var(--marrom);
 }
+
+.contato__email::placeholder{
+    font-family: var(--fonte-principal);
+    color: var(--meioazul);
+}
