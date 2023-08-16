@@ -1,4 +1,7 @@
 hr{
     margin: 0;
+}
+
+.rodape{
     background-color: var(--maioazul);
 }
