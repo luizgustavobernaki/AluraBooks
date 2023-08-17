@@ -130,5 +130,6 @@ padding: 1em 0 0.5em 0
   }
   .card{
     width: 60%;
+    margin-left: 3em;
   }
  }
