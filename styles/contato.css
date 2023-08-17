@@ -41,4 +41,7 @@
     .contato__email{
         width: 30%;
     }
+    .contato__descricao{
+        margin: 1em;
+    }
 }
