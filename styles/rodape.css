@@ -27,4 +27,7 @@ hr{
         font-size: 14px;
         color: var(--cinza-claro);
     }
+    .rodape__titulo{
+        font-size: 24px;
+    }
 }
