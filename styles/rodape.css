@@ -13,4 +13,8 @@ hr{
         display: flex;
         justify-content: space-around;
     }
+    .lista-rodape__item{
+        display: flex;
+        align-items: center;
+    }
 }
