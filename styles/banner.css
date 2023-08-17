@@ -28,5 +28,12 @@
         color: var(--meioazul);
         background: url(../img/Lupa.png) no-repeat;
         background-position: 1em;
-        display: block;
     }
+
+    @media screen and (min-width: 1024px){
+        .banner__titulo{
+            font-size: 36px;
+        }
+    }
+        
+    
