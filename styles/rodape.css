@@ -23,4 +23,8 @@ hr{
         text-decoration: none;
         margin-left: 0.6em;
     }
+    .lista-rodape__titulo{
+        font-size: 14px;
+        color: var(--cinza-claro);
+    }
 }
