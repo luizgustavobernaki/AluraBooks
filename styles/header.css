@@ -65,7 +65,7 @@
         .opcoes{
             display: flex;
         }
-        .opcoes__item{
+        .opcao__item{
             padding: 0 1em;
         }
     }
