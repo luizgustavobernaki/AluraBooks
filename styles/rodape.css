@@ -16,6 +16,7 @@ hr{
     .lista-rodape__item{
         display: flex;
         align-items: center;
+        margin: 0.6em 0;
     }
     .lista-rodape__link{
         color: var(--cinza);
