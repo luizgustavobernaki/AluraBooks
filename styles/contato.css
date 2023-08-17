@@ -36,4 +36,7 @@
     .contato{
         display: flex;
     }
+    .contato__email{
+        width: 30%;
+    }
 }
