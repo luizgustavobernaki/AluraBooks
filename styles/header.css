@@ -67,5 +67,6 @@
         }
         .opcao__item{
             padding: 0 1em;
+            text-transform: uppercase;
         }
     }
