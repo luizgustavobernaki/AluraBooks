@@ -43,6 +43,7 @@
     }
     .contato__descricao{
         margin: 1em;
+        width: 30%;
     }
     .contato__titulo{
         font-size: 24px;
