@@ -7,11 +7,17 @@ hr{
     padding: 1em;
     font-weight: 700;
 }
+.lista-rodape{
+    display: none;
+}
 
 @media screen and (min-width: 1024px){
     .rodape{
         display: flex;
         justify-content: space-around;
+    }
+    .lista-rodape{
+        display: block;
     }
     .lista-rodape__item{
         display: flex;
