@@ -43,4 +43,7 @@ hr{
         border-left: 1px solid var(--cinza-claro);
         padding-left: 1em;
     }
+    .rodape{
+        padding: 3em 0;
+    }
 }
