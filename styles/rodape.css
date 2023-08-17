@@ -20,5 +20,6 @@ hr{
     .lista-rodape__link{
         color: var(--cinza);
         text-decoration: none;
+        margin-left: 0.6em;
     }
 }
