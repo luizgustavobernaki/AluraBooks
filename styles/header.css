@@ -76,4 +76,7 @@
             text-decoration: none;
             color: var(--meioazul);
         }
+        .container__imagem-transparente{
+            display: none;
+        }
     }
