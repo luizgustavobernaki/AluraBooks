@@ -117,5 +117,6 @@ padding: 1em 0 0.5em 0
   .carrossel__container{
     display: flex;
     margin: 0 20vw 3em 20vw;
+    align-items: center;
   }
  }
