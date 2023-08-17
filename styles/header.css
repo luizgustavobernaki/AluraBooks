@@ -98,4 +98,7 @@
             text-decoration: none;
             color: var(--meioazul);
         }
+        .cabecalho{
+            padding: 0 2em;
+        }
     }
