@@ -44,4 +44,7 @@
     .contato__descricao{
         margin: 1em;
     }
+    .contato__titulo{
+        font-size: 24px;
+    }
 }
