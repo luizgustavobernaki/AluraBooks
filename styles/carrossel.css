@@ -114,7 +114,7 @@ padding: 1em 0 0.5em 0
  }
 
  @media screen and (min-width: 1728px){
-  carrossel__container{
+  .carrossel__container{
     display: flex;
   }
  }
