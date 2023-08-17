@@ -7,7 +7,7 @@ hr{
     padding: 1em;
     font-weight: 700;
 }
-.lista-rodape{
+.lista__rodape{
     display: none;
 }
 
@@ -16,7 +16,7 @@ hr{
         display: flex;
         justify-content: space-around;
     }
-    .lista-rodape{
+    .lista__rodape{
         display: block;
     }
     .lista-rodape__item{
