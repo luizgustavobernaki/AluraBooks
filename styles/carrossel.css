@@ -100,3 +100,9 @@ padding: 1em 0 0.5em 0
   background-color: transparent;
  }
 
+ @media screen and (min-width: 1024px){
+  .carrossel__titulo{
+    font-size: 26px;
+  }
+ }
+
