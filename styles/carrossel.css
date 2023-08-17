@@ -104,5 +104,8 @@ padding: 1em 0 0.5em 0
   .carrossel__titulo{
     font-size: 26px;
   }
+  .swiper{
+    width: 60%;
+  }
  }
 
