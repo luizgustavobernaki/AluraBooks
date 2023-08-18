@@ -125,4 +125,7 @@
         .container__texto{
             display: block;
         }
+        .lista-menu__item:hover{
+            background: var(--azul);
+        }
     }
