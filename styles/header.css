@@ -97,6 +97,9 @@
         .opcoes__botao{
             display: none;
         }
+        .opcoes__botao:checked ~ .opcoes__rotulo > .opcao__item{
+            background: var(--azul);
+        }
     }
 
     @media screen and (min-width: 1728px){
