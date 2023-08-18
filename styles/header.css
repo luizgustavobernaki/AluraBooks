@@ -107,9 +107,6 @@
         .lista-menu__item:hover{
             background: var(--azul);
         }
-        .lista-menu__item:hover > .lista-menu__link{
-            -webkit-text-fill-color: var(--marrom);
-        }
     }
 
     @media screen and (min-width: 1728px){
