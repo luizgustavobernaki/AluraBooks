@@ -99,6 +99,7 @@
         }
         .opcoes__botao:checked ~ .opcoes__rotulo > .opcao__item{
             background: var(--azul);
+            color: var(--marrom);
         }
     }
 
