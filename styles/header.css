@@ -9,7 +9,9 @@
     .container__botao:checked ~ .container__rotulo >.cabecalho__menu-hamburguer{
         background-image: url(../img/Menu\ Aberto.svg);
     }
-   
+   .container__botao:checked ~ .container__rotulo{
+    background: var(--azul);
+   }
     .cabecalho{
         background-color: var(--branco);
         display: flex;
